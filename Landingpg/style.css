@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.t-left{
+width: 50%;
+height: 155px;
+}
+.t-right{
+    height: 155px;
+    width: 50%;
+}
+.t-right .image1{
+    width: 466px;
+}
+.s1{
+    padding-left:63px;
+    padding-right:63px;
+}
+.s1 h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ .s1  p{ 
+     padding: 0 8px; 
+    text-align: center;
+  } 
+.btn{
+    padding: 4px 12px;
+border: 2px solid white;
+border-radius: 12px;
+cursor: pointer;
+color: white;
+background-color: rgb(107, 76, 147);
+ }
+ img{
+    height: 10px;
+    width: 10px;    
+} 
+
+.logo{ 
+    font-size: 1.3rem;
+    width: 89px;
+    padding: 0 171px;
+}
+
+.imglogo{
+    height: 85px;
+width: 300px;
+}
+ 
+.s2{
+    padding: 40px;
+}
+.s2 h1{
+    font-size: 2.5rem;
+ }
+ .s2 p{
+    padding: 0 8vw;
+    text-align: center;
+ }
+.box{
+    padding: 8px 0px;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    text-align: center;
+border-radius: 8px;
+}
+.box h2{
+    font-size: 2rem;
+    padding: 15px 0;
+}
+.box ul{
+    list-style: none;
+}
+
+.box ul li{
+    margin: 12px 2px;
+}
+
+.bold{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.plans{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+ 
+.s3{
+    padding: 74px;
+}
+
+.s3 table{
+width: 100%;
+margin-bottom: 150px;
+margin-top: 20px;
+border-collapse: collapse;
+}
+
+.s3 table th{
+    width: 23vw;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    padding:12px 0 ;
+    }
+    .s3 table td{
+        border-bottom: 2px solid black;
+        border-right: 2px solid black;
+        }
+        .s3 table tr{
+            border-bottom: 2px solid black;
+            border-right: 2px solid black;    
+        }
+       footer{
+        padding: 23px;
+        text-align: center;
+        }  
+
